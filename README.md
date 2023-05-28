@@ -1,2 +1,2 @@
 # infinity-corp
-A project for helping a Truck company 
+A project for helping a trucking company 
